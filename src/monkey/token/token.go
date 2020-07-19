@@ -10,6 +10,9 @@ const (
 	IDENT = "IDENT" // add, foobar, x, y, ...
 	INT   = "INT"   // 1343456
 
+	// String
+	STRING = "STRING"
+
 	// Operators
 	ASSIGN   = "="
 	PLUS     = "+"
